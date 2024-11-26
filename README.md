@@ -19,6 +19,14 @@ The Arduino Nano is programmed with custom firmware to calculate inductance and 
 ### 5 - Calibration and Functionality
 The project includes functionality for calibration, zeroing, and easy measurement. Buttons on the PCB allow users to fine-tune settings for accurate results.
 
+---
+
+### Features:
+- Precise Measurements: Measure a wide range of inductance and capacitance values.
+- User-Friendly Interface: Includes a 16x2 LCD display for real-time measurement results and intuitive feedback.
+- Adjustable Calibration: Easily calibrate the device for accurate readings using the on-board calibration buttons.
+- Compact and Portable: The design is compact, making it easy to use in different workspaces or carry for fieldwork.
+
 ### Features:
 - Frequency Range: 88 MHz – 108 MHz
 - Microphone input for real-time audio transmission
