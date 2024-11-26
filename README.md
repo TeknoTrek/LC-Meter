@@ -2,7 +2,7 @@
 
 This project demonstrates how to build a DIY LC Meter capable of measuring inductance (L) and capacitance (C) values using an Arduino Nano, an LM311 comparator, and a 16x2 LCD display. The LC Meter is designed to be simple, affordable, and effective for electronics enthusiasts and DIY hobbyists. It is suitable for learning about measurement principles while also being a practical tool.
 
-##Project Highlights:
+## Project Highlights:
 
 ### 1 - Circuit Schematic
 A detailed circuit diagram explains the working principle and interconnection of components such as the LM311 comparator, relay, calibration buttons, and measurement probes. The schematic provides a foundation for assembling the hardware.
