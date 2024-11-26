@@ -8,7 +8,7 @@ This project demonstrates how to build a DIY LC Meter capable of measuring induc
 A detailed circuit diagram explains the working principle and interconnection of components such as the LM311 comparator, relay, calibration buttons, and measurement probes. The schematic provides a foundation for assembling the hardware.
 
 ### 2 - PCB Design
-A professionally designed double-layer PCB created with KiCad ensures clean routing and minimizes interference. It includes detailed silkscreen labels for easy assembly and debugging.
+A professionally designed single-layer PCB created with KiCad ensures clean routing and minimizes interference. It includes detailed silkscreen labels for easy assembly and debugging.
 
 ### 3 - 3D Model
 A realistic 3D representation of the completed PCB with components mounted, offering a clear view of the final product and component placement.
