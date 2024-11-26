@@ -70,6 +70,8 @@ You can watch the full build process of this DIY LC Meter on my YouTube channel 
 
 ![3D Model](https://raw.githubusercontent.com/TeknoTrek/LC-Meter/refs/heads/main/images/lc-meter-treknotrek-pcb-3d-model-2.jpg)
 
+![3D Model](https://raw.githubusercontent.com/TeknoTrek/LC-Meter/refs/heads/main/images/lc-meter-treknotrek-pcb-3d-model.jpg)
+
 ## GitHub Repository:
 All project files, including schematics, PCB designs, 3D models, and source code, are available on GitHub.
 
