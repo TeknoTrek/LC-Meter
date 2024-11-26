@@ -1,10 +1,23 @@
-# FM Transmitter (88 MHz – 108 MHz)
+# DIY LC Meter Project
 
-This repository contains the KiCad project files for an FM Transmitter circuit operating in the 88 MHz – 108 MHz range. The design includes both the circuit schematic and the PCB layout, with a 3D model of the assembled board.
+This project demonstrates how to build a DIY LC Meter capable of measuring inductance (L) and capacitance (C) values using an Arduino Nano, an LM311 comparator, and a 16x2 LCD display. The LC Meter is designed to be simple, affordable, and effective for electronics enthusiasts and DIY hobbyists. It is suitable for learning about measurement principles while also being a practical tool.
 
-## Project Overview
+##Project Highlights:
 
-This FM transmitter is designed to broadcast audio signals using a microphone input. It covers the standard FM radio frequency range and is powered by a 9V battery. The circuit is based on a single transistor (BC548) and includes adjustable frequency tuning through a variable capacitor (C3).
+### 1 - Circuit Schematic
+A detailed circuit diagram explains the working principle and interconnection of components such as the LM311 comparator, relay, calibration buttons, and measurement probes. The schematic provides a foundation for assembling the hardware.
+
+### 2 - PCB Design
+A professionally designed double-layer PCB created with KiCad ensures clean routing and minimizes interference. It includes detailed silkscreen labels for easy assembly and debugging.
+
+### 3 - 3D Model
+A realistic 3D representation of the completed PCB with components mounted, offering a clear view of the final product and component placement.
+
+### 4 - Firmware
+The Arduino Nano is programmed with custom firmware to calculate inductance and capacitance values. Measurements are displayed on a 16x2 LCD in real time.
+
+### 5 - Calibration and Functionality
+The project includes functionality for calibration, zeroing, and easy measurement. Buttons on the PCB allow users to fine-tune settings for accurate results.
 
 ### Features:
 - Frequency Range: 88 MHz – 108 MHz
