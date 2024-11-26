@@ -50,53 +50,30 @@ You can watch the full build process of this DIY LC Meter on my YouTube channel 
 
 [Watch on YouTube](https://youtu.be/YbbpxDlLRkQ)
 
-### Files Included:
+## Files Included:
 - Circuit schematic
 - PCB design files (KiCad)
 - 3D PCB model
 - Arduino firmware
 - Documentation with detailed assembly and usage instructions
 
+
 ## Circuit Schematic
 
-![FM Transmitter Schematic](https://raw.githubusercontent.com/TeknoTrek/Fm-Transmitter/refs/heads/main/images/fm-transmitter-circuit.jpg)
-
-The circuit consists of the following key components:
-- **Q1 (BC548)**: The main transistor used for signal amplification and modulation.
-- **C3 (0-30 pF)**: A variable capacitor for tuning the frequency.
-- **L1 (Coil)**: Works with C3 to set the oscillation frequency.
-- **Microphone**: Captures the audio to be transmitted.
-- **Antenna**: Transmits the modulated FM signal.
+![DIY LC Meter Schematic](https://raw.githubusercontent.com/TeknoTrek/LC-Meter/refs/heads/main/images/Circuit-LC-Meter.jpg)
 
 ## PCB Layout
 
-![PCB Layout](https://raw.githubusercontent.com/TeknoTrek/Fm-Transmitter/refs/heads/main/images/fm-transmitter-pcb.jpg)
-
-The PCB layout is designed to be compact, with clear labels for easy assembly. The board supports through-hole components for easier soldering.
+![PCB Layout](https://raw.githubusercontent.com/TeknoTrek/LC-Meter/refs/heads/main/images/lc-meter-pcb-teknotrek.jpg)
 
 ## 3D Model
 
-![3D Model](https://raw.githubusercontent.com/TeknoTrek/Fm-Transmitter/refs/heads/main/images/fm-transmitter-pcb-3d-model.jpg)
+![3D Model](https://raw.githubusercontent.com/TeknoTrek/LC-Meter/refs/heads/main/images/lc-meter-treknotrek-pcb-3d-model-2.jpg)
 
-<img align="center"  alt="PCB 3D Model" src="https://raw.githubusercontent.com/TeknoTrek/Fm-Transmitter/refs/heads/main/images/fm-transmitter-pcb-3d.jpg">
+## GitHub Repository:
+All project files, including schematics, PCB designs, 3D models, and source code, are available on GitHub.
 
-<img align="center"  alt="PCB" src="https://raw.githubusercontent.com/TeknoTrek/Fm-Transmitter/refs/heads/main/images/fm-transmitter-pcb-2.jpg">
+Check out the project here: [**Teknotrek**](https://www.youtube.com/@TeknoTrek)
 
-A 3D model of the assembled PCB is included to give you a better idea of how the final product will look.
+This project is perfect for anyone interested in electronics, DIY tools, or Arduino projects. Whether you are a beginner or an experienced maker,this LC Meter provides a hands-on learning experience and a functional tool for your electronics toolkit!
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/TeknoTrek/fm-transmitter.git
-   ```
-
-2. Open the project in KiCad and review the schematic and PCB layout.
-
-3. Assemble the components as per the schematic, solder them to the PCB, and tune the frequency using C3.
-
-4. Attach a suitable antenna and power the transmitter using a 9V battery.
-
----
-
-Let me know if you'd like to adjust any part of it!
