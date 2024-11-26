@@ -27,19 +27,35 @@ The project includes functionality for calibration, zeroing, and easy measuremen
 - Adjustable Calibration: Easily calibrate the device for accurate readings using the on-board calibration buttons.
 - Compact and Portable: The design is compact, making it easy to use in different workspaces or carry for fieldwork.
 
-### Features:
-- Frequency Range: 88 MHz – 108 MHz
-- Microphone input for real-time audio transmission
-- LED power indicator
-- Compact PCB design
-- Easy to assemble
+
+### Instructions:
+### Prepare the PCB:
+Download the provided Gerber files and manufacture the PCB, or use the KiCad design to etch your own board.
+
+### Assemble Components:
+Place and solder all components as per the silkscreen labels on the PCB.
+
+### Upload Firmware:
+Use the Arduino IDE to upload the provided sketch to your Arduino Nano. Ensure all libraries are correctly installed.
+
+### Power and Calibration:
+Connect the LC Meter to a 5V power source via USB or the provided input terminals. Calibrate the device using the calibration and zero buttons for precise results.
+
+### Start Measuring:
+Connect your inductors or capacitors to the respective terminals (Lx or Cx) and observe the measurement results on the LCD.
 
 ## Watch the Build Process
 
-You can watch the full build process of this FM transmitter on my YouTube channel [**Teknotrek**](https://www.youtube.com/@TeknoTrek). Click the link below to see how the circuit is assembled, soldered, and tested:
+You can watch the full build process of this DIY LC Meter on my YouTube channel [**Teknotrek**](https://www.youtube.com/@TeknoTrek). Click the link below to see how the circuit is assembled, soldered, and tested:
 
-[Watch on YouTube](https://youtu.be/xPGkkRPhaV4)
+[Watch on YouTube](https://youtu.be/YbbpxDlLRkQ)
 
+### Files Included:
+- Circuit schematic
+- PCB design files (KiCad)
+- 3D PCB model
+- Arduino firmware
+- Documentation with detailed assembly and usage instructions
 
 ## Circuit Schematic
 
